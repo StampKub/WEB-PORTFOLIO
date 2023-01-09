@@ -1,0 +1,117 @@
+body , html{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+.navbar{
+    width: 100%;
+    display: flex;
+    color: white;
+    background-color:#0e133a ;
+}
+.logo{
+    width: 20%;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    display: flex;
+}
+header{
+    height: 700px;
+    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(https://giffiles.alphacoders.com/211/211748.gif);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.header-info{
+    text-align: center;
+    padding: 12%;
+}    
+h1{
+    margin: 0;
+    font-size: 40px;
+}
+.topic-sz{
+    font-size: 30px;
+}
+.li-sz{
+    font-size: 20px;
+}
+.topic{
+    margin-top: 30px;
+    margin-left: 250px;
+    display: flex;
+    justify-content: left ;
+}
+.nav-ul{
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 200px;
+    list-style: none;
+}
+.nav-ul li{
+    margin: 20px;
+    align-items: center;
+}
+.nav-ul li a{
+    color: white;
+    text-decoration: none;
+}
+.dark{
+    color: #302f2f;
+}
+.profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    margin-top: 35px;
+}
+.center-sz{
+    text-align: center;
+    font-size: 40px;
+}
+.margin-left-50{
+    margin-left: 50px ;
+}
+h2{
+    font-size: 30px;
+}
+.flexbox{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.flex-col{
+    flex-basis: 32%;
+    border-radius: 10px;
+    margin-bottom: 0;
+    text-align: center;
+}
+.photo{
+    border-radius: 10px;
+}
+.margin-top{
+    margin-top: 70px ;
+}
+.center{
+    text-align: center;
+}
+.row {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.margin-left-10{
+    margin-left: 10px;
+}
+.scrolling-box{
+    width: 100%;
+    height: auto;
+}
