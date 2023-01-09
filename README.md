@@ -1,1 +1,1 @@
-www.web-portfolio-stampkub.vercel.app
+https://web-portfolio-stampkub.vercel.app/
